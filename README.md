@@ -1,4 +1,4 @@
-# Gerardo
+# Kurei
 
 ### Computer Engineering · Software Architecture · Design & Technology
 
