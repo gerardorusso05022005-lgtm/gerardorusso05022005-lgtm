@@ -4,7 +4,7 @@
 
 Hi! I'm Gerardo, a Computer Engineering graduate currently pursuing my Master's degree at the University of Salerno (UniSA).
 
-I'm interested in software architecture and the design of digital systems. My goal is to grow into a Software Architect, developing a deeper understanding of how software is structured, designed and built.
+I'm interested in software architecture and the design of digital systems. I'm particularly drawn to understanding how complex systems are structured, how technical decisions shape their development, and how thoughtful design can make technology more meaningful and accessible.
 
 I see computing as a powerful medium for expanding possibilities, overcoming conventional limitations and turning ideas into something tangible.
 
@@ -20,7 +20,7 @@ I see computing as a powerful medium for expanding possibilities, overcoming con
 
 **Also explored:** JavaScript, TypeScript, React Native and Flutter.
 
-These technologies are part of my academic background and ongoing learning journey. I'm working on strengthening my practical skills through independent projects and experimentation.
+These technologies are part of my academic background and ongoing learning journey. I'm currently strengthening my practical skills through independent projects and experimentation.
 
 ## Currently Exploring
 
@@ -30,4 +30,4 @@ These technologies are part of my academic background and ongoing learning journ
 
 ---
 
-*Curious by nature, interested in connecting ideas and always looking for new ways to understand and build things.*
+*Curious by nature, drawn to interdisciplinary thinking and always looking for connections between ideas, technology and creativity.*
